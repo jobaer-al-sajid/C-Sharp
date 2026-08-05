@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nature’s Corner", "Nature’s Corner\Nature’s Corner.csproj", "{C61D2AE8-4E6C-4EBD-B799-E1963D32BD38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61D2AE8-4E6C-4EBD-B799-E1963D32BD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61D2AE8-4E6C-4EBD-B799-E1963D32BD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61D2AE8-4E6C-4EBD-B799-E1963D32BD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61D2AE8-4E6C-4EBD-B799-E1963D32BD38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1520D33E-8798-415F-B393-6E7E6E80C7FC}
+	EndGlobalSection
+EndGlobal
